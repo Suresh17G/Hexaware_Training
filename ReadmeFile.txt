@@ -1,1 +1,1 @@
-This is a sample readme text file.
+This is a sample readme text file to show Git Demo.
